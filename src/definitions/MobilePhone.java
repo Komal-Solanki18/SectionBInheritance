@@ -1,12 +1,12 @@
 /*  Created by IntelliJ IDEA.
- *  User: Divyansh Bhardwaj (dbc2201)
- *  Date: 24/08/20
- *  Time: 1:48 PM
+ *  User: Komal Solanki.
+ *  Date: 30/08/20
+ *  Time: 12:53 AM
  *  File Name : MobilePhone.java
  * */
 package definitions;
 
-// that you can carry with you
+// that you can carry with you.
 public class MobilePhone extends Phone {
     public void printContactNumber() {
         System.out.println(getContactNumber());

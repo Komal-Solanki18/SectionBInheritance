@@ -12,7 +12,7 @@ public class InheritanceDemo {
     // Inheritance (Simple English):
     // Inheritance (noun): Something that we "inherit" from some(thing/one).
     // Inheritance (verb): The act of acquiring a property/trait/behaviour/attribute
-    // by one ENTITY from ANOTHER ENTITY related to it.
+    // by one ENTITY from ANOTHER ENTITY related to it.(because we are realted to our parents)
     // Entity: A human being, any living thing, any non-living thing.
 
     // Real-Life Examples:
